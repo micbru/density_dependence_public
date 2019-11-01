@@ -10,7 +10,7 @@ dd_functions.py is the main python file with the following functions:
                                 Can be used in combination with minimize_scalar to find most likely alpha.
     contours(alpha,pc,nmax) - For plotting contour data, as in Fig. 2 in the paper.
 
-The other files included here are Python notebooks to replicate the figures in the paper, and to demonstrate usage of dd_functions.py
+The other files included here are Python notebooks to replicate the figures in the paper, and to demonstrate usage of dd_functions.py. The required data are available at: https://doi.org/10.6078/D1MQ2V (Serpentine) and https://doi.org/10.15146/5xcp-0d46 (BCI).
     
     PlotPiFunction_Fig1.ipynb - Examples for directly plotting the Pi function.
     BCI.ipynb - Replicates analysis for the BCI dataset, generating the BCI part of Figs. 2, 4, and 5.
