@@ -1,5 +1,5 @@
 # density_dependence_public
-Code supplementing "Density dependence and a colonization rule predict spatial patterning"
+Code supplementing "Relating the Strength of Density Dependence and the Spatial Distribution of Individuals"
 
 dd_functions.py is the main python file with the following functions:
 
@@ -17,4 +17,4 @@ The other files included here are Python notebooks to replicate the figures in t
     Serpentine.ipynb - As BCI, but for the serpentine dataset.
     SerpentineBCIScaling_Fig3.ipynb - Replicates the aggregate scaling we showed in Fig. 3.
 
-Please contact me if you have any question about how to use this code. If you do use it, please cite the Density dependence paper (To be published) or my github page for the time being.
+Please contact me if you have any question about how to use this code. If you do use it, please cite the Density dependence paper https://doi.org/10.3389/fevo.2021.691792.
